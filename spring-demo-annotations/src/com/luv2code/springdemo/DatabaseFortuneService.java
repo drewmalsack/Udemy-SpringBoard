@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class DatabaseFortuneService implements FortuneService {
 
 	@Override
-	public String getFortune() {
+	public String getDailyFortune() {
 		// TODO Auto-generated method stub
 		return null;
 	}
